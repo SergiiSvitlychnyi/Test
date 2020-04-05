@@ -1,9 +1,1 @@
-Main requirements
 
-Create calculator which understand symbols ()+-*/ and  is able to perform action Undo, Redo.
-It can be in desktop or web (preferable) version.
-
-Technologies
-
-Backend: Java/Java + Spring/Node.js
-Also you can do it as a Frontend: JavaFx/JSP/Thymeleaf/JS/ReactJS
